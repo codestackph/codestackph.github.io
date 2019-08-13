@@ -1666,7 +1666,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #149dcc;
+  background-color: #060000;
 }
 .cid-rvnhnYVZS2 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2582,4 +2582,5 @@ body {
 }
 .cid-rvpAgeloiH P {
   text-align: left;
+  color: #ffffff;
 }
