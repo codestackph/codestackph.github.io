@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site-clone",
+    "name": "My Site-clone-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -38,7 +38,8 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 31,
     "versionPublish": "4.10.0",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "modified": "2019-08-16T07:23:00.000Z"
   },
   "pages": {
     "getquotenow.html": {
